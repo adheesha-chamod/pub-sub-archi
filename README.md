@@ -1,1 +1,1 @@
-# Pub-Sub_Architecture
+# Publish - Subscribe Middleware Architecture
