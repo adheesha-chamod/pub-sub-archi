@@ -181,4 +181,7 @@ Enhanced publisher subscriber architecture to publisher architecture with channe
     ```console
     python client.py localhost 5000 subscriber topic1
     ```
-    ```
+
+# Task -04
+
+![Picture1](https://github.com/tharindugunawardhana99/Pub-Sub_Architecture/assets/89847807/56de285c-c124-41b7-86a1-9043dfc7d02c)
