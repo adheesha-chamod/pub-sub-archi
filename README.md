@@ -183,6 +183,7 @@ Enhanced publisher-subscriber architecture to publisher architecture with channe
     ```
 # Task -04
 
+<img align="center" width="100" height="100" src="![Task4img](https://github.com/tharindugunawardhana99/Pub-Sub_Architecture/assets/89847807/03949b72-a2f1-46ee-8ee1-25b750c6f0f9)">
 ![Task4img](https://github.com/tharindugunawardhana99/Pub-Sub_Architecture/assets/89847807/03949b72-a2f1-46ee-8ee1-25b750c6f0f9)
 
 In this architecture, the message broker is the central point of communication for publishers and subscribers. The message broker is responsible for storing messages in a durable storage and distributing them to subscribers.
