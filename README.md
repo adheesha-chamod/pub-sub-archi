@@ -4,7 +4,7 @@ Luminary Group-37
 
 To use the application, follow the outlined steps:
 
-# Clone this repository :
+## Clone this repository :
 ```console
 git clone https://github.com/tharindugunawardhana99/Pub-Sub_Architecture.git
 ```
