@@ -2,7 +2,7 @@
 SCS3203 - Middleware Architecture - Assignment 01 <br>
 Luminary - Group-37
 
-To use the application, follow the outlined steps:
+To use the application, follow the outlined steps below:
 
 ## Clone this repository :
 ```console
