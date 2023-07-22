@@ -4,12 +4,12 @@ Luminary Group-37
 
 To use the application, follow the outlined steps:
 
---> Clone this repository :
+# Clone this repository :
 ```console
 git clone https://github.com/tharindugunawardhana99/Pub-Sub_Architecture.git
 ```
 
-#Task-01
+# Task-01
 Created a simple client server architecture.
 
 --Instructions to run the code
@@ -54,7 +54,7 @@ Created a simple client server architecture.
     Enter message: terminate
     ```
 
-#Task-02
+# Task-02
 
 Enhanced client server architecture to publisher subscriber architecture.
 
@@ -124,7 +124,7 @@ python client.py localhost 5000 publisher
 Enter message: Hello Server
 ```
 
-#Task -03
+# Task -03
 
 Enhanced publisher subscriber architecture to publisher architecture with channel filtering topic based.
 
