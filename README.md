@@ -1,6 +1,6 @@
 # Publish - Subscribe Middleware Architecture
-SCS3203-Middleware-Architecture Assignment 01
-Luminary Group-37
+SCS3203 - Middleware Architecture - Assignment 01 <br>
+Luminary - Group-37
 
 To use the application, follow the outlined steps:
 
@@ -12,7 +12,7 @@ git clone https://github.com/tharindugunawardhana99/Pub-Sub_Architecture.git
 # Task - 01
 Created a simple client-server architecture.
 
---Instructions to run the code
+Instructions to run the code
 
 1. Run server.
 
@@ -114,15 +114,15 @@ Enhanced client-server architecture to publisher-subscriber architecture.
 
 3. Run the client_app.py file with the server IP, port number, and subscriber or publisher as arguments.
 
-```console
-python client_app.py localhost 5000 publisher
-```
+    ```console
+    python client_app.py localhost 5000 publisher
+    ```
 
 4. Enter the message to be sent to the server. 
 
-```console
-Enter message: Hello Server
-```
+    ```console
+    Enter message: Hello Server
+    ```
 
 # Task - 03
 
@@ -185,8 +185,8 @@ Enhanced publisher-subscriber architecture to publisher architecture with channe
 
 ![Task4img](https://github.com/tharindugunawardhana99/Pub-Sub_Architecture/assets/89847807/03949b72-a2f1-46ee-8ee1-25b750c6f0f9)
 
-Description-
-In this architecture, the message broker is the central point of communication for publishers and subscribers. The message broker is responsible for storing messages in a durable storage and distributing them to subscribers.
+### Description <br>
+In this architecture, the message broker is the central point of communication for publishers and subscribers. The message broker is     responsible for storing messages in durable storage and distributing them to subscribers.
 
 To improve availability and reliability, the message broker should be deployed in a distributed manner. This means that there should be multiple instances of the message broker running in different locations. If one instance of the message broker fails, the other instances will continue to operate.
 
@@ -194,8 +194,11 @@ In addition, the message broker should be configured to replicate messages to mu
 
 The following are some of the benefits of the distributed architecture for Pub/Sub:
 
-1.Improved availability: The single server node's single point of failure is eliminated by the distributed design. The message broker's other instances will keep running even if one instance crashes.
+### 1. Improved availability: <br>
+The single server node's single point of failure is eliminated by the distributed design. The message broker's other instances will keep running even if one instance crashes.
 
-2.Improved reliability: Even if one storage node fails, messages will still be available thanks to the distributed architecture's replication of messages to numerous storage nodes.
+### 2. Improved reliability: <br> 
+Even if one storage node fails, messages will still be available thanks to the distributed architecture's replication of messages to numerous storage nodes.
 
-3.Scalability: More instances of the message broker and storage nodes can be added to grow the distributed architecture to handle more traffic. 
+### 3. Scalability: <br> 
+More instances of the message broker and storage nodes can be added to grow the distributed architecture to handle more traffic. 
